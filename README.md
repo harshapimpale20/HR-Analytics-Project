@@ -129,7 +129,10 @@ The interactive Tableau HR Analytics Dashboard includes:
 8. Created an interactive HR Analytics Dashboard.
 9. Analyzed employee attrition and workforce distribution.
 
----
+<img width="931" height="476" alt="Screenshot 2026-11-22 130044" src="https://github.com/user-attachments/assets/b17315f5-d035-4899-b5bb-a96a13a77084" />
+
+
+   ---
 
 ## 📁 Repository Structure
 
@@ -156,7 +159,8 @@ The dashboard helps explore:
 
 ## 📌 Project Outcome
 ## ScreenShot
-<img width="1893" height="821" alt="Screenshot 2026-11-22 122719" src="https://github.com/user-attachments/assets/6c89af80-480b-48d3-8b57-ffbf3abdf2d0" />
+<img width="1907" height="1003" alt="Screenshot 2026-11-22 122450" src="https://github.com/user-attachments/assets/6d5b8363-3fce-4d62-83d0-c78a65d9e156" />
+
 <img width="1917" height="952" alt="Screenshot 2026-11-22 123908" src="https://github.com/user-attachments/assets/02cf40b5-8dc0-4566-8011-670cb186ac95" />
 
 
